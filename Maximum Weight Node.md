@@ -1,4 +1,5 @@
-###Maximum Weight Node
+### Maximum Weight Node
+
 Problem Description : You are given a maze with N cells. Each cell may have multiple entry points
 but not more than one exit (i.e. entry/exit points are unidirectional doors like valves).
 The cells are named with an integer from 0 to N-1.
@@ -16,8 +17,9 @@ Sample Input :
 4 4 1 4 13 8 8 8 0 8 14 9 15 11 -1 10 15 22 22 22 22 22 21
 Sample Output :
 22
-###Code
-```java
+### Code
+
+``` java
 package JustPay;
 
 import java.util.Scanner;
