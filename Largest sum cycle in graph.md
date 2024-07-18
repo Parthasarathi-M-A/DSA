@@ -22,7 +22,7 @@ Sample Output :
 6
 ### Code :
 ``` java
-package JustPay;
+
 
 import java.util.ArrayList;
 import java.util.Scanner;
