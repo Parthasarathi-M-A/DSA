@@ -6,14 +6,21 @@ Input 1:
 4 4 1 4 13 8 8 8 0 8 14 9 15 11 -1 10 15 22 22 22 22 22 21
 2
 0
-Output:true  
+### Output:
+true  
 
-Input 2:
+### Input 2:
 23
+
 4 4 1 4 13 8 8 8 0 8 14 9 15 11 -1 10 15 22 22 22 22 22 21
+
 2
+
 22
-Output:false
+
+### Output:
+false
+
 ### Code 
 ```java
 import java.util.ArrayList;
