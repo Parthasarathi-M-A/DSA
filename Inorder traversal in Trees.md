@@ -9,7 +9,6 @@ root = [1,null,2,3]
 
 ### Code :
 ``` java
-package ArrayToBST;
 
 public class ArrayTotree {
      Node root;
