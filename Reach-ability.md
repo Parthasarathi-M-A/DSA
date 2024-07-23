@@ -1,7 +1,7 @@
 ### Reach-ability 
 This problem asks you to check for a given static graph if a node dest is
 reachable from a given node src .
-Input 1:
+### Input 1:
 23
 4 4 1 4 13 8 8 8 0 8 14 9 15 11 -1 10 15 22 22 22 22 22 21
 2
